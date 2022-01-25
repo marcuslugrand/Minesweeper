@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\TileBomb.h(30,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\TileBomb.h(30,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\TileBomb.h(31,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\TileBomb.h(31,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\TileBomb.h(32,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\TileBomb.h(32,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\TileBomb.h(33,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\TileBomb.h(33,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(199,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(199,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(201,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(201,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(203,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(203,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(205,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(205,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(207,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(207,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(210,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(213,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(216,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(230,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(230,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lugfa\source\repos\Project3.0\Project3.0\Test.h(380,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project3.0.vcxproj -> C:\Users\lugfa\source\repos\Project3.0\Debug\Project3.0.exe
